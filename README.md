@@ -2,4 +2,4 @@
 
 ## Architecture
 
-![](Documents/architecture.png)
+![](Documents/architecture.PNG)
